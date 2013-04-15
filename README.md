@@ -1,4 +1,4 @@
 gitttest
 ========
 
-Om te oefenen met github
+For for foling around with github repos. Forking, pulling, merging and so on. 
