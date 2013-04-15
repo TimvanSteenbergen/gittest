@@ -1,4 +1,4 @@
 gitttest
 ========
 
-For for foling around with github repos. Forking, pulling, merging and so on. 
+For for foolling around with github repos. Forking, pulling, merging and so on. 
