@@ -6,4 +6,4 @@
  * Time: 9:52
  */
 
-echo ('<a href="../gittest/oo/singleton.php">singleton</a>');
+echo ('<a href="oo Design Pattern Code Samples/singleton.php">singleton</a>');
